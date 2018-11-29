@@ -2,7 +2,7 @@ puppet-master,puppet,role::it::puppet_master,production
 dm-hs,hs,role::dm::dm_header_service,production
 ts-sw-env,tcs,role::ts::ts_dev_env_basic,production
 ts-visitsim,visitsim,role::ts::ts_visit_simulator,production
-ats-shutter-hcu,ccs,role::ccs::ats_shutter_hcu,production
+ats-ccs,ccs,role::ccs::ats_shutter_hcu,production
 ts-efd,efd,role::ts::efd,production
 ts-intcluster,intcluster,role::ts::ts_intcluster,production
 tcs-dome,dome,role::ts::ts_dome,production
