@@ -18,14 +18,6 @@ NodesDatabase:
                         - "NOT NULL"
                         - "Primary Key"
                 
-                site:
-                        - "TEXT" 
-                        - "NOT NULL"
-                
-                datacenter:
-                        - "TEXT"
-                        - "NOT NULL"
-                
                 cluster:
                         - "TEXT"
                         - "NOT NULL"
