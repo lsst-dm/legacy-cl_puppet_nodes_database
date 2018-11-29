@@ -25,7 +25,11 @@ NodesDatabase:
                 role:
                         - "TEXT"
                         - "NOT NULL"
-                
+
+                classes:
+                        - "TEXT"
+                        - "NOT NULL"
+
                 environment:
                         - "TEXT"
                         - "NOT NULL"

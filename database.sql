@@ -3,6 +3,7 @@ CREATE TABLE "Nodes" (
 	"node_definition"  TEXT UNIQUE NOT NULL Primary Key,
 	"cluster"  TEXT NOT NULL,
 	"role"  TEXT NOT NULL,
+	"classes"  TEXT NOT NULL,
 	"environment"  TEXT NOT NULL
 );
 .separator ","
