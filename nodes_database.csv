@@ -1,4 +1,4 @@
-puppet-master,puppet,role::it::puppet_master, profile::default,production
+puppet-master,puppet,role::it::puppet_master,profile::default,production
 dm-hs,hs,role::dm::dm_header_service,profile::default;rofile::it::ssh_server,production
 ts-sw-env,tcs,role::ts::ts_dev_env_basic,profile::default;rofile::it::ssh_server,production
 ts-visitsim,visitsim,role::ts::ts_visit_simulator,profile::default;rofile::it::ssh_server,production
