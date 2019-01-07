@@ -11,4 +11,4 @@ influxdb,influxdb,role::it::influxdb,profile::default;profile::it::ssh_server,pr
 grafana,grafana,role::it::grafana,profile::default;profile::it::ssh_server,production
 graylog,graylog,role::it::graylog,profile::default;profile::it::ssh_server,production
 gs-dhcp,dhcp,role::it::gs_dhcp,profile::default;profile::it::ssh_server,production
-ts-csc,csc,role::ts::csc,profile::default;profile::ts::ts_csc,IT_943_avillalobos
+ts-csc,csc,role::ts::csc,profile::default;profile::ts::csc,IT_943_avillalobos
