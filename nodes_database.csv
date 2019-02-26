@@ -12,3 +12,4 @@ grafana,grafana,role::it::grafana,,production
 graylog,graylog,role::it::graylog,,production
 gs-dhcp,dhcp,role::it::gs_dhcp,,production
 ts-csc,csc,role::ts::ts_csc,,production
+gs-pihole-master,pihole,role::default,,IT_962_avillalobos
